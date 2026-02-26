@@ -32,9 +32,6 @@ Repeated runs are used to estimate:
 ---
 
 ## Repository contents
-
-> Adjust this list if your final file names differ.
-
 ### Core C++ / MPI source
 - `main.cpp` — program entry point / CLI handling
 - `ForestFire.cpp`, `ForestFire.h` — model implementation and simulation logic
